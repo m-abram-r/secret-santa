@@ -1,2 +1,4 @@
 app/* linguist-documentation=false
 app/* linguist-vendored
+*.cs linguist-detectable=true
+
