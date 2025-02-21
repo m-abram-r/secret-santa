@@ -1,0 +1,14 @@
+D:\Users\Abram\source\repos\AssassinTargetList\AssassinTargetList\bin\Debug\net8.0\AssassinTargetList.exe
+D:\Users\Abram\source\repos\AssassinTargetList\AssassinTargetList\bin\Debug\net8.0\AssassinTargetList.deps.json
+D:\Users\Abram\source\repos\AssassinTargetList\AssassinTargetList\bin\Debug\net8.0\AssassinTargetList.runtimeconfig.json
+D:\Users\Abram\source\repos\AssassinTargetList\AssassinTargetList\bin\Debug\net8.0\AssassinTargetList.dll
+D:\Users\Abram\source\repos\AssassinTargetList\AssassinTargetList\bin\Debug\net8.0\AssassinTargetList.pdb
+D:\Users\Abram\source\repos\AssassinTargetList\AssassinTargetList\obj\Debug\net8.0\AssassinTargetList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Abram\source\repos\AssassinTargetList\AssassinTargetList\obj\Debug\net8.0\AssassinTargetList.AssemblyInfoInputs.cache
+D:\Users\Abram\source\repos\AssassinTargetList\AssassinTargetList\obj\Debug\net8.0\AssassinTargetList.AssemblyInfo.cs
+D:\Users\Abram\source\repos\AssassinTargetList\AssassinTargetList\obj\Debug\net8.0\AssassinTargetList.csproj.CoreCompileInputs.cache
+D:\Users\Abram\source\repos\AssassinTargetList\AssassinTargetList\obj\Debug\net8.0\AssassinTargetList.dll
+D:\Users\Abram\source\repos\AssassinTargetList\AssassinTargetList\obj\Debug\net8.0\refint\AssassinTargetList.dll
+D:\Users\Abram\source\repos\AssassinTargetList\AssassinTargetList\obj\Debug\net8.0\AssassinTargetList.pdb
+D:\Users\Abram\source\repos\AssassinTargetList\AssassinTargetList\obj\Debug\net8.0\AssassinTargetList.genruntimeconfig.cache
+D:\Users\Abram\source\repos\AssassinTargetList\AssassinTargetList\obj\Debug\net8.0\ref\AssassinTargetList.dll
