@@ -25,6 +25,7 @@ namespace AssassinTargetList
 
         static Random rnd = new Random();
 
+
         static void Main()
         {
             List<Participant> participants = new List<Participant>();
