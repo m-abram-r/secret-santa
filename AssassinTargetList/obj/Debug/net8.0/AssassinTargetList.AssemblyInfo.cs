@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssassinTargetList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0803af34cb031e22bc30204d6af10228e0c1bdd9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae9906f3f37e35ba913d3e3897d62a7bfc7ea333")]
 [assembly: System.Reflection.AssemblyProductAttribute("AssassinTargetList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssassinTargetList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

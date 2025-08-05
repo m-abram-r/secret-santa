@@ -5,7 +5,6 @@ using System.Runtime.InteropServices;
 
 namespace AssassinTargetList
 {
-
     public class Program
     {
         public class Participant : IEquatable<Participant>
